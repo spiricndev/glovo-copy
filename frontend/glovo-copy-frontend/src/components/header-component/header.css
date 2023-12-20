@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 6.75rem;
+    background-color: #fec344; 
+    font-family: 'Roboto', sans-serif; 
+}
+
+.container__logo {
+    width: 25%;
+    margin-left: 10%;
+}
+
+.container__logo__style {
+    color: #01a083;
+    font-size: 2.5rem;
+    font-weight: 550; 
+}
+
+.container__search {
+    width: 50%;
+    margin-left: 20%;
+}
+
+.container__search__style {
+    width: 10rem;
+    height: 40%;
+}
+
+
+.container__button {
+    width: 25%;
+}
+
+.container__button__style {
+    color: white;
+    background-color: #01a083;
+    font-size: 1rem;
+    font-weight: 600;
+    height: 2.7rem;
+    width: 7.5rem;
+    border-color: #01a083;
+    border-radius: 10%;
+}
+
